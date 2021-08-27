@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi Folk! 👋 Devang This Side.
 
-<!--
-**idevarya/idevarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Devang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idevarya&show_icons=true&theme=algolia)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About ME?
+
+HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
+
+## I Know These
+
+![Linux](https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-ar21.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
+![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
+
+## I Use These
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idevarya&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/idevarya)
+
+## Hit Out to Me
+
+[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/jaat4u)
+
+# Thanks for the Visit :)
+
+![](https://komarev.com/ghpvc/?username=idevarya)
