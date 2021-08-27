@@ -1,4 +1,4 @@
-# Hi Folk! 👋 Devang This Side.
+# Hi Mate! 👋 Devang This Side.
 
 ![Devang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idevarya&show_icons=true&theme=algolia)
 Here are some ideas to get you started:
