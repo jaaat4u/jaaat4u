@@ -3,7 +3,7 @@
 ![Devang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idevarya&show_icons=true&theme=algolia)
 Here are some ideas to get you started:
 
-## About ME?
+## About Me?
 
 HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
 
