@@ -1,8 +1,8 @@
-# Hi Mate! 👋 Devang This Side.
+# Hi Mate! 👋 Baba Nirala This Side.
 
-![Devang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idevarya&show_icons=true&theme=algolia)
+![Baba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&theme=algolia)
 
-## About Me?
+## About Me, Ay?
 
 HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
 
@@ -14,7 +14,7 @@ HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
 
 ## I Use These
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idevarya&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/idevarya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaat4u&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/idevarya)
 
 ## Hit Out to Me
 
@@ -22,4 +22,4 @@ HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
 
 # Thanks for the Visit :)
 
-![](https://komarev.com/ghpvc/?username=idevarya)
+![](https://komarev.com/ghpvc/?username=jaaat4u)
