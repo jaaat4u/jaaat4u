@@ -1,6 +1,6 @@
 # Hi Mate! 👋
 
-![Baba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&theme=merko" alt="Baba's GitHub Stats">|<img src="https://media.giphy.com/media/Id6dC0GQOOzPMXgcPv/giphy.gif?cid=ecf05e4753dou0193ich34cdjfij8t2o4hzgereafh9uw063&rid=giphy.gif&ct=g" />
 
 ## About Me, Ay?
 
