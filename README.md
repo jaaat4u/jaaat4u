@@ -1,6 +1,6 @@
 # Hi Mate! 👋
 
-![Baba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&theme=algolia)
+![Baba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&theme=merko)
 
 ## About Me, Ay?
 
