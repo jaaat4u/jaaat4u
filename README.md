@@ -18,6 +18,7 @@ HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Apple Music](https://img.shields.io/badge/Apple-F05032?style=for-the-badge&logo=applemusic&logoColor=white)
 
 ## Hit Out to Me
 
