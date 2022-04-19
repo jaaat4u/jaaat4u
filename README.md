@@ -4,8 +4,6 @@
 echo "Hi People!"
 ```
 
-![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&theme=highcontrast&show_icons=true)
-
 ## About Me, Eh Mate?
 
 HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
