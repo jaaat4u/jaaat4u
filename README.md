@@ -23,7 +23,7 @@ HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
 
 ## Currently on Repeat
 
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD?si=Jvq0wKbxTCKKSUa1RbGiqQ&utm_source=copy-link)
+[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD?si=a18e30f7302144dd)
 
 ## Hit Out to Me
 
