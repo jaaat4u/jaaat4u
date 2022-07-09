@@ -21,10 +21,6 @@ HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple-F05032?style=for-the-badge&logo=applemusic&logoColor=white)
 
-## Currently on Repeat
-
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD?si=a18e30f7302144dd)
-
 ## Hit Out to Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jaat4u)
