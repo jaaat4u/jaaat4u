@@ -25,6 +25,10 @@ HouseOwner in the Indian Millennium City, I Like to Work on Linux Distros.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jaat4u)
 
+## Cheer Me Up
+
+<a href="https://ko-fi.com/jaat4u" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 # Thanks for the Visit :)
 
 ![](https://komarev.com/ghpvc/?username=jaaat4u)
