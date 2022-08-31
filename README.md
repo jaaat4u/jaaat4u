@@ -17,8 +17,7 @@ int main() {
 }
 ```
 
-
-![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&theme=highcontrast&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=monokai)
 
 ## About Me, Eh Mate?
 
