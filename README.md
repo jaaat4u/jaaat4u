@@ -17,7 +17,7 @@ int main() {
 }
 ```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=monokai)
+![Stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=maroongold)
 
 ## About Me, Eh Mate?
 
