@@ -18,9 +18,6 @@ int main() {
 ```
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaaat4u&theme=solarized)
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=maroongold)
-
 ## About Me, Eh Mate?
 
 A Greenhorn Linux Kernel Developer, maintaining [Arcturus Kernel](https://t.me/ArcturusKernel) for OnePlus Kona.
