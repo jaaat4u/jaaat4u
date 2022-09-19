@@ -16,6 +16,8 @@ int main() {
     return 0;
 }
 ```
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaaat4u&theme=solarized)
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jaaat4u&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=maroongold)
 
