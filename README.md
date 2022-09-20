@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main() {
     
-    printf("Hello! I'm Devang. ");
+    printf("Hello! I'm Devang.\n");
    
     int a = 2;
     int b = 1;
