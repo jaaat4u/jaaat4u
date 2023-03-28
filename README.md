@@ -16,7 +16,7 @@ int main() {
     return 0;
 }
 ```
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaaat4u&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaaat4u&theme=2077)
 
 ## About Me, Eh Mate?
 
