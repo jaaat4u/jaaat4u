@@ -1,19 +1,16 @@
 ```bash
 #include<stdio.h>
-int main() {
-    
+int main()
+{    
     printf("Hello! I'm Devang.\n");
    
-    int a = 2;
-    int b = 1;
- 
-    printf("Been on the Earth for over %d%d years now and ", a,b);
+    int a = 21;
+
+    printf("Been on the Earth for over %d years now and ", a);
 
     char c = 'C';
 
     printf("I'm currently learning %c.", c);
-
-    return 0;
 }
 ```
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaaat4u&theme=2077)
