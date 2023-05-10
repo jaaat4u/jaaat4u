@@ -4,7 +4,7 @@ int main()
 {    
     printf("Hello! I'm Devang.\n");
    
-    int a = 21;
+    int a = 22;
 
     printf("Been on the Earth for over %d years now and ", a);
 
