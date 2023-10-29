@@ -17,8 +17,7 @@ int main()
 
 ## About Me, Eh Mate?
 
-A Greenhorn Linux Kernel Developer, maintaining [Arcturus Kernel](https://t.me/ArcturusKernel) for OnePlus Kona.
-I'm open to learn anything new that drops down ahead of me.
+Nothing too great or exciting, life's good. Just enjoying my iPhone 14 Pro and the iPad Pro 2022, pairing them with my AirPods Pro (Gen 2) sometimes.
 
 ## Tools & Stuff? Here
 
@@ -26,14 +25,6 @@ I'm open to learn anything new that drops down ahead of me.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple-F05032?style=for-the-badge&logo=applemusic&logoColor=white)
-
-## Hit Out to Me
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jaat4u)
-
-## Cheer Me Up!
-
-<a href="https://ko-fi.com/jaat4u" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 # Thanks for the Visit :)
 
