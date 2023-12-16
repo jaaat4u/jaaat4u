@@ -23,7 +23,6 @@ Nothing too great or exciting, life's good. Just enjoying my iPhone 14 Pro and t
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple-F05032?style=for-the-badge&logo=applemusic&logoColor=white)
 
 # Thanks for the Visit :)
